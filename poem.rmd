@@ -1,6 +1,6 @@
 ---
 title: "git_00"
-author: "Your Name here"
+author: "Lelainy Saavedra"
 date: "Year 2020"
 output: html_document
 ---
@@ -16,11 +16,39 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+"You are old, Father William." The young man said,  
+"And your hair has become very white;    
+And yet you incessantly stand on your head-  
+Do you think, at your age, it is right?"  
+"In my youth," Father William replied to his son,  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+Spades take up leaves  
+No better than spoons,  
+And bags full of leaves  
+Are light as balloons.  
+
+
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sun was shinning on the sea,  
+Shinning with all his might:  
+He did his very best to make  
+The billows smooth and bright--  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shinning sulkily,  
+Because she thought the sun  
+Had no business to be there  
+After the day was done--  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
